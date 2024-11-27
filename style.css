@@ -1,0 +1,17 @@
+body {
+  background-color: lightskyblue;
+  margin: 25px;
+  padding: 0;
+}
+
+.grid-item { 
+  width: 20vw;
+  padding: 1vw;
+  background-color: darkcyan;
+  color: white;
+  box-sizing: border-box;
+}
+
+.grid {
+  position: relative;
+}
