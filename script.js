@@ -26,7 +26,7 @@ let gamesJSON = [
   {
     "title": "Space Turret",
     "description": "Press space to shoot.",
-    "image": "spaceTurret.png",
+    "image": "SpaceTurret.png",
     "link": "https://novany.itch.io/space-turret",
     "colorBackground": "#FF5722"
   },
